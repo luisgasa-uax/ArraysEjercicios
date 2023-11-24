@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"es.uax.luisgasa.gaes23.arrays","l":"ArrayPrimos"},{"p":"es.uax.luisgasa.gaes23.arrays","l":"ArraysEjercicios01"}];updateSearchResults();

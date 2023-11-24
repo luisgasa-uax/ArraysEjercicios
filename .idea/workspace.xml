@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31eaee42-000a-473e-ab95-02740a3eb5f1" name="Changes" comment="DOC remove README.md">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/es/uax/luisgasa/gaes23/arrays/ArraysEjercicios01Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/es/uax/luisgasa/gaes23/arrays/ArraysEjercicios01Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="31eaee42-000a-473e-ab95-02740a3eb5f1" name="Changes" comment="chore: mod ArraysEjercicios01Test.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,11 +118,45 @@
       <option name="project" value="LOCAL" />
       <updated>1700805425653</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chore: mod Array">
+      <option name="closed" value="true" />
+      <created>1700805821528</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700805821529</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chore: mod Array">
+      <option name="closed" value="true" />
+      <created>1700805867733</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700805867733</updated>
+    </task>
+    <task id="LOCAL-00004" summary="chore: mod ArraysEjercicios01Test.java">
+      <option name="closed" value="true" />
+      <created>1700805891276</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700805891276</updated>
+    </task>
+    <task id="LOCAL-00005" summary="chore: mod ArraysEjercicios01Test.java">
+      <option name="closed" value="true" />
+      <created>1700805972854</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700805972854</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="DOC remove README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="DOC remove README.md" />
+    <MESSAGE value="chore: mod Array" />
+    <MESSAGE value="chore: mod ArraysEjercicios01Test.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: mod ArraysEjercicios01Test.java" />
   </component>
 </project>
