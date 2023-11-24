@@ -1,4 +1,4 @@
-package es.uax.gaes23.arrays;
+package es.uax.luisgasa.gaes23.arrays;
 
 import static org.junit.jupiter.api.Assertions.*;
 

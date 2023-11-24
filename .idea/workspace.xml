@@ -1,18 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="31eaee42-000a-473e-ab95-02740a3eb5f1" name="Changes" comment="" />
+    <list default="true" id="31eaee42-000a-473e-ab95-02740a3eb5f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArraysEjercicios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uax/luisgasa/gaes23/arrays/ArrayPrimos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uax/luisgasa/gaes23/arrays/ArraysEjercicios01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/es/uax/luisgasa/gaes23/arrays/ArrayPrimosTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/es/uax/luisgasa/gaes23/arrays/ArraysEjercicios01Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2YbcM3iCLjb4oQgvVKV08Ku0Gmf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,11 +48,72 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "Q:/UAX/GAE_Informatica_Java/ArraysEjercicios",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Q:\UAX\GAE_Informatica_Java\ArraysEjercicios01\test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="es.uax.gaes23.arrays" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="es.uax.luisgasa.gaes23.arrays" />
+      <recent name="es.uax.gaes23.arrays" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ArraysEjercicios01Test.testSumarArray">
+    <configuration name="ArraysEjercicios01Test.testMultiplicarMatrizEscalar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArraysEjercicios" />
+      <option name="PACKAGE_NAME" value="es.uax.gaes23.arrays" />
+      <option name="MAIN_CLASS_NAME" value="es.uax.gaes23.arrays.ArraysEjercicios01Test" />
+      <option name="METHOD_NAME" value="testMultiplicarMatrizEscalar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysEjercicios01Test.testSumarArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArraysEjercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.uax.luisgasa.gaes23.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.uax.luisgasa.gaes23.arrays" />
+      <option name="MAIN_CLASS_NAME" value="es.uax.luisgasa.gaes23.arrays.ArraysEjercicios01Test" />
+      <option name="METHOD_NAME" value="testSumarArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArraysEjercicios01Test.testSumarArray" />
+        <item itemvalue="JUnit.ArraysEjercicios01Test.testMultiplicarMatrizEscalar" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

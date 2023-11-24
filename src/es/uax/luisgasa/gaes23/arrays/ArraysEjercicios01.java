@@ -1,4 +1,4 @@
-package es.uax.gaes23.arrays;
+package es.uax.luisgasa.gaes23.arrays;
 
 /**
  * Clase ArrayExercises que proporciona una colección de métodos estáticos para operaciones comunes en arrays.
@@ -284,22 +284,6 @@ public class ArraysEjercicios01 {
      * @return Una nueva matriz con cada elemento multiplicado por el escalar.
      */
     public static int[][] multiplicarMatrizEscalar(int[][] matriz, int escalar) {
-        if (matriz == null || matriz.length == 0 || matriz[0].length == 0) {
-            // Retorna la matriz original si está vacía o es null.
-            return matriz;
-        }
-
-        int filas = matriz.length;
-        int columnas = matriz[0].length;
-        int[][] matrizResultante = new int[filas][columnas];
-
-        for (int i = 0; i < filas; i++) {
-            for (int j = 0; j < columnas; j++) {
-                matrizResultante[i][j] = matriz[i][j] * escalar;
-            }
-        }
-
-        return matrizResultante;
-        //return null; // Implementación pendiente
+        return null; // Implementación pendiente
     }
 }
