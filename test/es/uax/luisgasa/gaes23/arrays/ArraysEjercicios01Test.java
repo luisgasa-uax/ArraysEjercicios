@@ -29,6 +29,8 @@ class ArraysEjercicios01Test {
         assertEquals(10, ArraysEjercicios01.encontrarMaximo(new int[]{0, 5, 10}));
         assertEquals(7, ArraysEjercicios01.encontrarMaximo(new int[]{7}));
     }
+
+    @Test
     public void testCalcularMedia() {
         assertEquals(3.0, ArraysEjercicios01.calcularMedia(new int[]{1, 2, 3, 4, 5}), 0.001);
         assertEquals(0.0, ArraysEjercicios01.calcularMedia(new int[]{}), 0.001);
