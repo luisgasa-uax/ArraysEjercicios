@@ -41,6 +41,7 @@ public class ArraysEjercicios01 {
         int escalar = 3;
 
         // Llamadas a los métodos
+        /*
         System.out.println("Suma de elementos: " + sumarArray(arrayTest));
         System.out.println("Mínimo del array: " + encontrarMinimo(arrayTest));
         System.out.println("Máximo del array: " + encontrarMaximo(arrayTest));
@@ -65,6 +66,10 @@ public class ArraysEjercicios01 {
         System.out.println("Sumar matrices: " + arrayBidimensionalAString(sumarMatrices(matrizTest, matrizTest2)));
         System.out.println("Transponer matriz: " + arrayBidimensionalAString(transponerMatriz(matrizTest)));
         System.out.println("Multiplicar matriz por " + escalar + ": " + arrayBidimensionalAString(multiplicarMatrizEscalar(matrizTest, escalar)));
+        */
+
+        System.out.println("arrayBidimensionalAString Matriz Test 1: " + arrayBidimensionalAString(matrizTest));
+        System.out.println("arrayBidimensionalAString Matriz Test 2: " + arrayBidimensionalAString(matrizTest2));
     }
 
     /**
@@ -74,10 +79,16 @@ public class ArraysEjercicios01 {
      * @param matriz La matriz o array bidimensional a tratar
      * @return La cadena de texto que representa la matriz
      */
-    private static String arrayBidimensionalAString(int[][] matriz) {
-        return ""; // Implementación pendiente
+     private static String arrayBidimensionalAString(int[][] matriz) {
+        String resultado = "";
+        for (int fila = 0; fila < matriz.length; fila++) {
+            for (int col = 0; col < matriz[fila].length ; col++) {
+                resultado += matriz[fila][col] + "|";
+            }
+            resultado += "\n"; // salto de línea
+        }
+        return "";
     }
-
 
     /**
      * Suma los elementos de un array de enteros.
