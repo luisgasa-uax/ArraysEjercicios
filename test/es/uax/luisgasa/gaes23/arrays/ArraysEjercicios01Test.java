@@ -10,7 +10,8 @@ class ArraysEjercicios01Test {
     public void testSumarArray() {
         assertEquals(15, ArraysEjercicios01.sumarArray(new int[]{1, 2, 3, 4, 5}));
         assertEquals(0, ArraysEjercicios01.sumarArray(new int[]{}));
-        assertEquals(-1, ArraysEjercicios01.sumarArray(new int[]{-1, 0, 1}));
+        assertEquals(-1, ArraysEjercicios01.sumarArray(new int[]{-1, 0, 1}));  // tiene que dar un error, por que el valor esperado está incorrecto
+        assertEquals(0, ArraysEjercicios01.sumarArray(new int[]{-1, 0, 1}));
         assertEquals(10, ArraysEjercicios01.sumarArray(new int[]{10}));
     }
 
